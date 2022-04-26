@@ -1,7 +1,8 @@
 # kafka-spring
 
 Basic Spring Apache Kafka System
-Apache Kafka is a distributed and fault-toleratn stream processing system
+
+Apache Kafka is a distributed and fault-tolerant stream processing system.
 
 ![Kafka](SpringBootProducerConsumer.png "https://www.geeksforgeeks.org/spring-boot-kafka-consumer-example/")<br />
 
